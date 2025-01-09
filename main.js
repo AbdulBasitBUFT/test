@@ -34,3 +34,7 @@ element-list
 | element
 ;
 console.log("Mir Faisal");
+
+document.getelementById("text").addEventLiestenr("click", function (){
+  console.log("Somthing is happening")
+})
